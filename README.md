@@ -24,3 +24,5 @@ This project analyzes sales performance across regions, categories, and time usi
 - Identified best performing products
 - Analyzed regional sales trends
 - Found seasonal sales patterns
+## To open vs code 
+https://github.dev/kiransalunkhe1971-a11y/Sales-performance-analysis/blob/main/SALES%20PERFORMANCE%20ANALYSIS%202.ipynb
