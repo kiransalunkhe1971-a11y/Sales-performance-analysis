@@ -6,7 +6,7 @@ This project analyzes sales performance across regions, categories, and time usi
 ## Tools Used
 - Power BI
 - Excel / CSV Dataset
-
+- jupyter notebook
 ## Dashboard Features
 - Total Revenue KPI
 - Profit Margin KPI
